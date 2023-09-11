@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 7",
+    "price": 399.99,
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 4",
+    "price": 249.99,
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "name": "Fitbit Versa 3",
+    "price": 199.99,
+    "brand": "Fitbit"
+  },
+  {
+    "id": 4,
+    "name": "Garmin Forerunner 945",
+    "price": 549.99,
+    "brand": "Garmin"
+  },
+  {
+    "id": 5,
+    "name": "Huawei Watch GT 3",
+    "price": 299.99,
+    "brand": "Huawei"
+  },
+  {
+    "id": 6,
+    "name": "Fossil Gen 5",
+    "price": 249.99,
+    "brand": "Fossil"
+  },
+  {
+    "id": 7,
+    "name": "Xiaomi Mi Watch Revolve",
+    "price": 129.99,
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 8,
+    "name": "TicWatch Pro 3",
+    "price": 299.99,
+    "brand": "TicWatch"
+  },
+  {
+    "id": 9,
+    "name": "Amazfit GTS 2",
+    "price": 149.99,
+    "brand": "Amazfit"
+  },
+  {
+    "id": 10,
+    "name": "Sony SmartWatch 3",
+    "price": 149.99,
+    "brand": "Sony"
+  }
+]
